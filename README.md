@@ -1,1 +1,11 @@
 # test
+*git init*
+*git remote*
+*git clone*
+*git checkout*
+*git branch*
+*git pull*
+*git reset*
+*git add*
+*git commit*
+*git push*
